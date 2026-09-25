@@ -146,7 +146,7 @@ Sale con código 1 si algo falla, así que sirve tal cual en la integración con
 ## Relacionado
 
 - **[Seis patrones para trabajar con agentes de IA](https://github.com/DEscalanteZ/ai-agent-patterns-es)**: la guía de la que sale este trabajo.
-- **[Comunicación entre dos Claude Code en ordenadores diferentes](https://github.com/DEscalanteZ/claude-code-buzon-es)**: el canal entre dos agentes, con sus candados.
+- **[Comunicación entre dos Claude Code en ordenadores diferentes](https://github.com/DEscalanteZ/comunicacion-entre-dos-claude-code-es)**: el canal entre dos agentes, con sus candados.
 
 ---
 

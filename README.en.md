@@ -69,7 +69,7 @@ A lock is a process that **refuses** to do the dangerous thing, a process that *
 ## Related
 
 - **[Six patterns for working with AI agents](https://github.com/DEscalanteZ/ai-agent-patterns-es)**
-- **[Communication between two Claude Code agents on different computers](https://github.com/DEscalanteZ/claude-code-buzon-es)**
+- **[Communication between two Claude Code agents on different computers](https://github.com/DEscalanteZ/comunicacion-entre-dos-claude-code-es)**
 
 ---
 
